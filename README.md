@@ -5,6 +5,8 @@
 
 1. git clone git@github.com:physwizz/a135f-T.git
 
+toolchains will be downloaded
+
 2. set python 2
 ==============
 
